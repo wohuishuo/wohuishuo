@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="168" viewBox="0 0 960 168" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">MIPS CPU Lab · Evidence snapshot</title>
+  <desc id="desc">2113 single-cycle checks, 28970 golden trace rows, FPGA Fibonacci 89 with zero reported errors. Archived project results, September 2026.</desc>
+  <rect x=".5" y=".5" width="959" height="167" rx="12" fill="#0D1520" stroke="#2B394A"/>
+  <path d="M320 27V141M640 27V141" stroke="#2B394A"/>
+  <g font-family="Consolas, 'Courier New', monospace">
+    <g fill="#8EA5BA" font-size="11" letter-spacing="1.6"><text x="28" y="33">SINGLE-CYCLE / SIMULATION</text><text x="348" y="33">COURSE SoC / GOLDEN TRACE</text><text x="668" y="33">PHYSICAL FPGA / UART</text></g>
+    <g fill="#68F0C0" font-size="43" font-weight="700"><text x="26" y="87">2,113</text><text x="346" y="87">28,970</text><text x="666" y="87">89</text></g>
+    <g fill="#D3DFEB" font-size="14"><text x="28" y="115">checks passed</text><text x="348" y="115">trace rows matched</text><text x="668" y="115">Fibonacci result</text></g>
+    <g fill="#869BB0" font-size="11"><text x="28" y="142">Independent checks + RTL</text><text x="348" y="142">Pipeline in course integration</text><text x="668" y="142">12 stores / 0 reported errors</text></g>
+  </g>
+</svg>

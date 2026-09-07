@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="408" viewBox="0 0 960 408" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">wohuishuo — Systems, Full Stack, Applied AI</title>
+  <desc id="desc">从指令到电路，从接口到产品。深色电路风格个人作品集封面。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="960" y2="408" gradientUnits="userSpaceOnUse"><stop stop-color="#101B27"/><stop offset="1" stop-color="#080D15"/></linearGradient>
+    <linearGradient id="line" x1="0" x2="960" gradientUnits="userSpaceOnUse"><stop stop-color="#68F0C0"/><stop offset="0.6" stop-color="#42BCCD"/><stop offset="1" stop-color="#222D3F"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#66788D" stroke-opacity=".09"/></pattern>
+    <radialGradient id="glow"><stop stop-color="#46E5B0" stop-opacity=".13"/><stop offset="1" stop-color="#46E5B0" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="960" height="408" rx="18" fill="url(#bg)"/>
+  <rect width="960" height="408" rx="18" fill="url(#grid)"/>
+  <ellipse cx="770" cy="185" rx="250" ry="210" fill="url(#glow)"/>
+  <rect x=".5" y=".5" width="959" height="407" rx="17.5" stroke="#263445"/>
+  <path d="M25 1H935" stroke="url(#line)" stroke-width="2"/>
+  <g font-family="Consolas, 'Courier New', monospace">
+    <circle cx="43" cy="40" r="4" fill="#68F0C0"/>
+    <text x="57" y="45" fill="#9DB1C2" font-size="12" letter-spacing="2">WOHUISHUO / ENGINEERING PORTFOLIO</text>
+    <text x="40" y="112" fill="#68F0C0" font-size="13" letter-spacing="3">SYSTEMS. PRODUCTS. INTELLIGENCE.</text>
+  </g>
+  <g font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', sans-serif" font-weight="700" font-size="40" fill="#F0F5FA">
+    <text x="38" y="176">从指令到电路，</text>
+    <text x="38" y="234">从接口到产品。</text>
+  </g>
+  <text x="40" y="277" fill="#A5B4C6" font-size="17" font-family="Consolas, monospace">Build it. Trace it. Prove it.</text>
+  <g stroke="#376C69" stroke-width="1.5">
+    <path d="M615 109H662L682 129H727M614 161H727M615 217H651L682 186H727M615 270H676L709 237H727"/>
+    <path d="M815 129H846L870 105H912M815 160H913M815 190H848L872 214H913M815 221H840L880 261H913"/>
+    <path d="M746 103V82L725 61M770 103V59M795 103V74L814 55M746 249V275L724 297M770 249V304M795 249V281L817 303"/>
+  </g>
+  <g fill="#68F0C0"><circle cx="615" cy="109" r="3"/><circle cx="615" cy="217" r="3"/><circle cx="913" cy="160" r="3"/><circle cx="770" cy="304" r="3"/></g>
+  <rect x="714" y="103" width="114" height="146" rx="12" fill="#101E29" stroke="#43746E"/>
+  <rect x="725" y="115" width="92" height="122" rx="6" fill="#101922" stroke="#68F0C0" stroke-opacity=".5"/>
+  <g font-family="Consolas, monospace" text-anchor="middle">
+    <text x="771" y="151" fill="#809CAD" font-size="10" letter-spacing="2">FROM BITS</text>
+    <text x="771" y="184" fill="#68F0C0" font-size="27" font-weight="700">W.</text>
+    <text x="771" y="215" fill="#809CAD" font-size="10" letter-spacing="2">TO SYSTEMS</text>
+  </g>
+  <path d="M40 321H920" stroke="#293544"/>
+  <g font-family="Consolas, monospace" font-size="12" letter-spacing="1.5">
+    <text x="40" y="360" fill="#68F0C0">01</text><text x="69" y="360" fill="#C0CDDC">CPU / FPGA</text>
+    <text x="272" y="360" fill="#68F0C0">02</text><text x="301" y="360" fill="#C0CDDC">FULL STACK</text>
+    <text x="516" y="360" fill="#68F0C0">03</text><text x="545" y="360" fill="#C0CDDC">ANDROID / AI</text>
+    <text x="917" y="360" text-anchor="end" fill="#698194">爱 / wohuishuo</text>
+  </g>
+</svg>
