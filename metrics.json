@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-25",
+  "repos": {
+    "user-center-team-project": {
+      "head": "e978a4eb2e3e57c3fd4adf30b7674822a69ed9b6",
+      "commits": 27,
+      "files": 45,
+      "lines": 2182,
+      "languages": {
+        "java": 922,
+        "sql": 39,
+        "js": 15,
+        "tsx": 367,
+        "html": 658,
+        "ts": 131,
+        "css": 50
+      }
+    },
+    "xingluo": {
+      "head": "d7414b35cc4f6dc11c4b65e180d39cb79ca1fa6b",
+      "commits": 3,
+      "files": 22,
+      "lines": 1475,
+      "languages": {
+        "java": 1475
+      }
+    },
+    "br-ai-service": {
+      "head": "8a452cf2d357efb97d7d200d094e3a17fec81190",
+      "commits": 7,
+      "files": 13,
+      "lines": 518,
+      "languages": {
+        "java": 518
+      }
+    },
+    "br-reader-app": {
+      "head": "f98fed29e204237e57a7fecf0c5bbd2f371c230e",
+      "commits": 24,
+      "files": 30,
+      "lines": 3323,
+      "languages": {
+        "kt": 3301,
+        "kts": 22
+      }
+    },
+    "book-realm": {
+      "head": "882f86ea3f7170a305c09eb776c112100feb57e2",
+      "commits": 87,
+      "files": 5,
+      "lines": 184,
+      "languages": {
+        "kt": 72,
+        "sql": 2,
+        "css": 101,
+        "ts": 9
+      }
+    }
+  }
+}
